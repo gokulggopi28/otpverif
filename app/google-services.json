@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44118289370",
+    "project_id": "fireb-b6f3d",
+    "storage_bucket": "fireb-b6f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44118289370:android:62c98a6f2101eacf45aee3",
+        "android_client_info": {
+          "package_name": "com.example.otpverific"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44118289370-725sjpirip7sn8eonhaho2qc07qli10d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdyhRMnFv1vPau3wBfLGNGoeH1B_H3buk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44118289370-725sjpirip7sn8eonhaho2qc07qli10d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
